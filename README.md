@@ -5,10 +5,10 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
-  <img src="./assets/hero-dark.svg" width="100%" alt="Fabrizio Palomino — Estudiante de Ingeniería de Sistemas de Información en la UPC, enfocado en ciberseguridad">
+  <img src="./assets/hero-dark.svg" width="100%" alt="Fabrizio Palomino — Estudiante de Ingeniería de Sistemas de Información en la UPC, orientado a la ciberseguridad">
 </picture>
 
-<br><br>
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/h-sobre-mi-dark.svg">
@@ -19,69 +19,119 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/sobre-mi-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/sobre-mi-light.svg">
-  <img src="./assets/sobre-mi-dark.svg" width="100%" alt="Estudiante de Ingeniería de Sistemas de Información en la UPC (8.º ciclo), ex practicante de preventa TI en Canvia, enfocado en ciberseguridad, ISO/IEC 27001 y gestión de riesgos. Inglés avanzado. Busco prácticas pre-profesionales.">
+  <img src="./assets/sobre-mi-dark.svg" width="100%" alt="Estudiante de 8.º ciclo de Ingeniería de Sistemas de Información en la UPC, orientado a la ciberseguridad. Experiencia en preventa TI (Canvia) y soporte técnico bilingüe (Teleperformance). Inglés C1.">
 </picture>
 
-<br><br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/kpis-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/kpis-light.svg">
+  <img src="./assets/kpis-dark.svg" width="100%" alt="80 casos diarios atendidos, FCR superior al 90 %, CSAT por encima del 80 %, inglés C1">
+</picture>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/h-experiencia-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/h-experiencia-light.svg">
+  <img src="./assets/h-experiencia-dark.svg" width="100%" alt="02 — Experiencia">
+</picture>
+
+
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/h-proyectos-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/h-proyectos-light.svg">
-  <img src="./assets/h-proyectos-dark.svg" width="100%" alt="02 — Proyectos destacados">
+  <img src="./assets/h-proyectos-dark.svg" width="100%" alt="03 — Proyectos destacados">
 </picture>
 
-<a href="https://github.com/fpalomino-db/Tambo-">
+<a href="https://github.com/fpalomino-db?tab=repositories">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/proyecto-tambo-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/proyecto-tambo-light.svg">
-  <img src="./assets/proyecto-tambo-dark.svg" width="49%" alt="Sistema de gestión Tambo — app de escritorio en C#, Windows Forms, Entity Framework y SQL Server">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/proyecto-prevdengue-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/proyecto-prevdengue-light.svg">
+  <img src="./assets/proyecto-prevdengue-dark.svg" width="49%" alt="PrevDengue — backend con JWT, RBAC y despliegue en Azure">
+</picture>
+</a>
+<a href="https://github.com/fpalomino-db?tab=repositories">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/proyecto-iso27001-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/proyecto-iso27001-light.svg">
+  <img src="./assets/proyecto-iso27001-dark.svg" width="49%" alt="Análisis de brechas ISO/IEC 27001">
+</picture>
+</a>
+
+<a href="https://github.com/fpalomino-db?tab=repositories">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/proyecto-aws-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/proyecto-aws-light.svg">
+  <img src="./assets/proyecto-aws-dark.svg" width="49%" alt="Arquitectura web tolerante a fallos en AWS">
 </picture>
 </a>
 <a href="https://github.com/fpalomino-db/MODELO-PREDICTIVO-DE-RETENCI-N-BANCARIA-kaggle-">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/proyecto-churn-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/proyecto-churn-light.svg">
-  <img src="./assets/proyecto-churn-dark.svg" width="49%" alt="Predicción de abandono bancario — modelo de clasificación con Python, pandas y scikit-learn">
+  <img src="./assets/proyecto-churn-dark.svg" width="49%" alt="Predicción de abandono bancario con Python y scikit-learn">
 </picture>
 </a>
 
-<br><br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/otros-proyectos-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/otros-proyectos-light.svg">
+  <img src="./assets/otros-proyectos-dark.svg" width="100%" alt="Otros proyectos: inventarios Tambo en C#/.NET, dashboards de BI con Power BI, procesos logísticos con BPMN/RPA">
+</picture>
+
+<br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/h-tecnologias-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/h-tecnologias-light.svg">
-  <img src="./assets/h-tecnologias-dark.svg" width="100%" alt="03 — Tecnologías">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/h-tecnicas-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/h-tecnicas-light.svg">
+  <img src="./assets/h-tecnicas-dark.svg" width="100%" alt="04 — Habilidades técnicas">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/stack-light.svg">
-  <img src="./assets/stack-dark.svg" width="100%" alt="Python, C#, SQL, SQL Server, PostgreSQL, MySQL, pandas, NumPy, scikit-learn, Jupyter, Git, GitHub, .NET y Entity Framework">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/tecnicas-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/tecnicas-light.svg">
+  <img src="./assets/tecnicas-dark.svg" width="100%" alt="Seguridad, redes y cloud, soporte TI, desarrollo, datos y BI, herramientas">
 </picture>
 
-<br><br>
+<br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/h-ahora-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/h-ahora-light.svg">
-  <img src="./assets/h-ahora-dark.svg" width="100%" alt="04 — Ahora mismo">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/h-blandas-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/h-blandas-light.svg">
+  <img src="./assets/h-blandas-dark.svg" width="100%" alt="05 — Habilidades blandas">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/ahora-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/ahora-light.svg">
-  <img src="./assets/ahora-dark.svg" width="100%" alt="Aprendiendo ISO/IEC 27001; buscando prácticas pre-profesionales en Service Desk, Mesa de Ayuda y ciberseguridad; mejorando mis repositorios">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/blandas-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/blandas-light.svg">
+  <img src="./assets/blandas-dark.svg" width="100%" alt="Comunicación bilingüe, resolución de problemas, orientación al usuario, trabajo bajo presión, redacción técnica y trabajo en equipo">
 </picture>
 
-<br><br>
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/h-certificaciones-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/h-certificaciones-light.svg">
+  <img src="./assets/h-certificaciones-dark.svg" width="100%" alt="06 — Certificaciones y formación">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/certificaciones-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/certificaciones-light.svg">
+  <img src="./assets/certificaciones-dark.svg" width="100%" alt="Google Cybersecurity, IT Security, ML with Keras on Google Cloud, inglés C1; UPC, PUCP y Universidad de Lima">
+</picture>
+
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/h-contacto-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/h-contacto-light.svg">
-  <img src="./assets/h-contacto-dark.svg" width="100%" alt="05 — Contacto">
+  <img src="./assets/h-contacto-dark.svg" width="100%" alt="07 — Contacto">
 </picture>
 
-<a href="https://www.linkedin.com/in/ffpc/">
+<a href="https://www.linkedin.com/in/ffpc">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/btn-linkedin-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/btn-linkedin-light.svg">
@@ -96,7 +146,7 @@
 </picture>
 </a>
 
-<br><br>
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg">
