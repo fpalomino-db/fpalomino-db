@@ -36,6 +36,11 @@
   <img src="./assets/h-experiencia-dark.svg" width="100%" alt="02 — Experiencia">
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/experiencia-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/experiencia-light.svg">
+  <img src="./assets/experiencia-dark.svg" width="100%" alt="Preventa TI en Canvia (2026) y soporte técnico bilingüe en Teleperformance (2024–2025)">
+</picture>
 
 <br>
 
